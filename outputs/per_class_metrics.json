@@ -1,0 +1,74 @@
+[
+  {
+    "class": "Bare / sparse vegetation",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1,
+    "sensitivity": 1.0,
+    "specificity": 1.0
+  },
+  {
+    "class": "Built-up",
+    "precision": 0.47493837304847986,
+    "recall": 0.6379690949227373,
+    "f1": 0.5445124823363166,
+    "support": 906,
+    "sensitivity": 0.6379690949227373,
+    "specificity": 0.7702265372168284
+  },
+  {
+    "class": "Cropland",
+    "precision": 0.8243304584657285,
+    "recall": 0.7547797173732336,
+    "f1": 0.7880234324148405,
+    "support": 2406,
+    "sensitivity": 0.7547797173732336,
+    "specificity": 0.6978922716627635
+  },
+  {
+    "class": "Grassland",
+    "precision": 0.375,
+    "recall": 0.13846153846153847,
+    "f1": 0.20224719101123595,
+    "support": 65,
+    "sensitivity": 0.13846153846153847,
+    "specificity": 0.9958586416344561
+  },
+  {
+    "class": "Herbaceous wetland",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1,
+    "sensitivity": 1.0,
+    "specificity": 1.0
+  },
+  {
+    "class": "Permanent water",
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1": 0.5,
+    "support": 3,
+    "sensitivity": 0.3333333333333333,
+    "specificity": 1.0
+  },
+  {
+    "class": "Shrubland",
+    "precision": 0.4405594405594406,
+    "recall": 0.5338983050847458,
+    "f1": 0.4827586206896552,
+    "support": 118,
+    "sensitivity": 0.5338983050847458,
+    "specificity": 0.9775847576351919
+  },
+  {
+    "class": "Tree cover",
+    "precision": 0.5773195876288659,
+    "recall": 0.2994652406417112,
+    "f1": 0.39436619718309857,
+    "support": 187,
+    "sensitivity": 0.2994652406417112,
+    "specificity": 0.9882857142857143
+  }
+]
