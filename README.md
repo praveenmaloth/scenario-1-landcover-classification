@@ -9,7 +9,6 @@ This repo contains code and scripts for the Earth-Observation selection task (II
   - `data/worldcover_bbox_delhi_ncr_2021.tif`
   - `data/rgb/*.png` (128×128 Sentinel-2 patches named `lat_lon.png`)
 
-Assignment PDF (local path used during development): `/mnt/data/6-month-intern-selection-task-2025.pdf`
 
 ## Quickstart (Google Colab recommended)
 1. Mount Google Drive and place dataset in `MyDrive/earth-observation-iitgn-2025/data/`.
@@ -26,6 +25,4 @@ Assignment PDF (local path used during development): `/mnt/data/6-month-intern-s
 - `outputs/train_split.csv`, `outputs/test_split.csv` — splits.
 - `outputs/per_class_metrics.json`, `outputs/confusion_matrix_norm.png`.
 
-## Notes
-- Large files (TIF, model weights) should be stored externally (Drive / LFS).
-- Use subject-wise splitting and proper validation when working with physiological data (Scenario-2).
+
